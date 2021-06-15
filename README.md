@@ -2,7 +2,7 @@
 ![Screenshot](Screenshot.jpg)
 Version 0.3
 
-Provides users a flawless controls with the ability to switch between any device such as a mouse, a keyboard, a xinput gamepad (including bluetooth) without changing any setting in the game.
+Provides users flawless controls with the ability to switch between any device such as a mouse, a keyboard, a xinput gamepad (including bluetooth) without changing any setting in the game.
 
 Any control (like "Run", "Use" and so on) in a game can be assigned with any number of inputs simultaneously.
 
